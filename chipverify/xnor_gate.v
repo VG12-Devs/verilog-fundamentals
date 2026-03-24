@@ -1,4 +1,4 @@
-module and_gate(
+module xnor_gate(
     input a,
     input b,
     output y
