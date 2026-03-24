@@ -1,4 +1,4 @@
-module and_gate(
+module or_gate(
     input a,
     input b,
     output y
