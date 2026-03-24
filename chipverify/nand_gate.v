@@ -1,4 +1,4 @@
-module and_gate(
+module nand_gate(
     input a,
     input b,
     output y
